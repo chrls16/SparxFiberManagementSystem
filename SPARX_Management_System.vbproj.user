@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Addnap.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdminBilling.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdminDashboard.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdminHistory.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdminInstallation.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdminInventory.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdminSales.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdminService.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AdminSubscribers.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="billingview.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ButtonRound.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="changepasswordstaff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConfigPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="customerservicetab.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dashboardSuperAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dashboardview.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EditAddress.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ForgotPassword.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ForgotVerification.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="frmBillingCreate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBillingUpdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCustomerNetworkingMappingUpdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCustomerNetworkMappingCreate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDeploy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmInstallationUpdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmInventoryCreate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmInventoryUpdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPayrollCreate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPayrollUpdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmServiceCreate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmServiceUpdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmStaffCreatevb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSubscriberUpdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="History.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="historyview.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="installationview.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="inventoryview.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LocationPickerForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LogOutConfirmation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NapBoxShow.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="networkmapview.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="NewPassword.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PanelRound.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="paymentMethod.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="payrollview.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PlansView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Profile.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SABillingExport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SAInstallationExport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SAInventoryExport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="salesview.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SAPayrollExport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SASalesExport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SAServiceExport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SASubscriberExport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="service.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SidePanel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sparxLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="staffview.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SubscriberSignup.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="subscriberview.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Tabs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
